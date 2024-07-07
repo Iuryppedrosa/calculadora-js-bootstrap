@@ -92,6 +92,7 @@ A calculadora possui um estilo escuro com bordas e sombras para dar um toque mod
 3. **Comece a calcular!** 🧮✨
 
 ## 📷 Capturas de Tela
+![Captura de Tela 2024-07-07 às 15 41 09](https://github.com/Iuryppedrosa/calculadora-js-bootstrap/assets/89420889/28aaf76a-8a5d-4613-9f14-2b973904d7de)
 
 ## 🤝 Contribuições
 
